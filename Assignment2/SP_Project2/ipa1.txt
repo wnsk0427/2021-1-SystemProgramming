@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>India pale ale - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"India_pale_ale","wgTitle":"India pale ale","wgCurRevisionId":716305870,"wgRevisionId":716305870,"wgArticleId":812938,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from January 2016","Wikipedia introduction cleanup from June 2014","All pages needing cleanup","Articles covered by WikiProject Wikify from June 2014","All articles covered by WikiProject Wikify","All articles that may contain original research","Articles that may contain original research from February 2015","Articles with unsourced statements from January 2015","Commons category with local link same as on Wikidata","Beer styles"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"India_pale_ale","wgRelevantArticleId":812938,"wgRequestId":"VyTqyQpAIDEAAClQIBgAAABO","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q1543214","wgVisualEditorToolbarScrollOffset":0});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.22"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/India_pale_ale"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=India_pale_ale&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=India_pale_ale&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/India_pale_ale"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-India_pale_ale rootpage-India_pale_ale skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">India pale ale</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-style ambox-lead_too_short" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article's <b><a href="/wiki/Wikipedia:Manual_of_Style/Lead_section" title="Wikipedia:Manual of Style/Lead section">lead section</a> may not adequately <a href="/wiki/Wikipedia:Summary_style" title="Wikipedia:Summary style">summarize</a> key points of its contents</b>. <span class="hide-when-compact">Please consider expanding the lead to <a href="/wiki/Wikipedia:Manual_of_Style/Lead_section#Provide_an_accessible_overview" title="Wikipedia:Manual of Style/Lead section">provide an accessible overview</a> of all important aspects of the article. Please discuss this issue on the article's <a href="/wiki/Talk:India_pale_ale" title="Talk:India pale ale">talk page</a>.</span> <small><i>(June 2014)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Fuller%27s_IPA.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Fuller%27s_IPA.JPG/220px-Fuller%27s_IPA.JPG" width="220" height="330" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Fuller%27s_IPA.JPG/330px-Fuller%27s_IPA.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Fuller%27s_IPA.JPG/440px-Fuller%27s_IPA.JPG 2x" data-file-width="2048" data-file-height="3072" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Fuller%27s_IPA.JPG" class="internal" title="Enlarge"></a></div>
+India Pale Ale from <a href="/wiki/Fuller%27s_Brewery" title="Fuller's Brewery">Fuller's Brewery</a>.</div>
+</div>
+</div>
+<p><b>India pale ale</b> (<b>IPA</b>) is a <a href="/wiki/Hops" title="Hops">hoppy</a> <a href="/wiki/Beer_styles" title="Beer styles" class="mw-redirect">beer style</a> within the broader category of <a href="/wiki/Pale_ale" title="Pale ale">pale ale</a>.</p>
+<p>The first known use of the term "India pale ale" is an advertisement in the <i><a href="/wiki/Sydney_Gazette" title="Sydney Gazette">Sydney Gazette and New South Wales Advertiser</a></i> in 1829.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It was also referred to as <i>pale ale as prepared for India</i>, <i>India ale</i>, <i>pale India ale</i>, or <i>pale export India ale</i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#United_Kingdom"><span class="tocnumber">2</span> <span class="toctext">United Kingdom</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Canada_and_the_United_States"><span class="tocnumber">3</span> <span class="toctext">Canada and the United States</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Footnotes"><span class="tocnumber">4</span> <span class="toctext">Footnotes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Bibliography"><span class="tocnumber">6</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=India_pale_ale&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The term <i>pale ale</i> originally denoted an ale that had been brewed from pale <a href="/wiki/Malt" title="Malt">malt</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> The pale ales of the early 18th century were lightly <a href="/wiki/Hops" title="Hops">hopped</a> and quite different from today's pale ales.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research"><span title="The material near this tag possibly contains original research. (February 2015)">original research?</span></a></i>]</sup> By the mid-18th century, pale ale was mostly brewed with <a href="/wiki/Coke_(fuel)" title="Coke (fuel)">coke</a>-fired malt, which produced less smoking and roasting of <a href="/wiki/Barley" title="Barley">barley</a> in the malting process, and hence produced a paler beer.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> One such variety of beer was <a href="/wiki/Old_ale" title="Old ale">October beer</a>, a pale well-hopped brew popular among the <a href="/wiki/Landed_gentry" title="Landed gentry">landed classes</a>, who brewed it domestically; once brewed it was intended to <a href="/wiki/Wine_cellar" title="Wine cellar">cellar</a> two years.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:282px;"><a href="/wiki/File:Old_Phipps_IPA_Claret_sharpened.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Old_Phipps_IPA_Claret_sharpened.jpg/280px-Old_Phipps_IPA_Claret_sharpened.jpg" width="280" height="198" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Old_Phipps_IPA_Claret_sharpened.jpg/420px-Old_Phipps_IPA_Claret_sharpened.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Old_Phipps_IPA_Claret_sharpened.jpg/560px-Old_Phipps_IPA_Claret_sharpened.jpg 2x" data-file-width="1000" data-file-height="707" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Old_Phipps_IPA_Claret_sharpened.jpg" class="internal" title="Enlarge"></a></div>
+19th century poster for <a href="/wiki/Phipps_NBC" title="Phipps NBC">Phipps</a>, an IPA brewer in <a href="/wiki/Northampton" title="Northampton">Northampton</a>.</div>
+</div>
+</div>
+<p>Among the first brewers known to export beer to India was the <a href="/w/index.php?title=Bow_Brewery&amp;action=edit&amp;redlink=1" class="new" title="Bow Brewery (page does not exist)">Bow Brewery</a>, on the <a href="/wiki/Middlesex" title="Middlesex">Middlesex</a>-<a href="/wiki/Essex" title="Essex">Essex</a> border. Bow Brewery beers became popular among <a href="/wiki/East_India_Company" title="East India Company">East India Company</a> traders in the late 18th century because of the brewery's location<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[a]</a></sup> and Hodgson's liberal <a href="/wiki/Line_of_credit" title="Line of credit">credit line</a> of 18 months. Ships transported Hodgson's beers to India, among them his October beer, which benefited exceptionally from conditions of the voyage and was apparently highly regarded among its consumers in India.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[9]</a></sup> Bow Brewery came into the control of Hodgson's son in the early 19th century,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[b]</a></sup> but his business practices alienated their customers.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2015)">citation needed</span></a></i>]</sup> During the same period, several <a href="/wiki/Burton_upon_Trent" title="Burton upon Trent">Burton</a> breweries lost their European export market in Russia when the <a href="/wiki/Tsar" title="Tsar">Tsar</a> banned the trade, and were seeking a new export market for their beer.<sup id="cite_ref-Pryor2009_8-2" class="reference"><a href="#cite_note-Pryor2009-8">[8]</a></sup></p>
+<p>At the behest of the East India Company, <a href="/wiki/Samuel_Allsopp_%26_Sons" title="Samuel Allsopp &amp; Sons">Allsopp</a> brewery developed a strongly-hopped pale ale in the style of Hodgson's for export to India.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[10]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[11]</a></sup> Other Burton brewers, including <a href="/wiki/Bass_Brewery" title="Bass Brewery">Bass</a> and <a href="/wiki/Salt%27s_Brewery" title="Salt's Brewery" class="mw-redirect">Salt</a>, were eager to replace their lost Russian export market and quickly followed Allsopp's lead. Perhaps as a result of the advantages of Burton water in brewing,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[c]</a></sup> Burton India pale ale was preferred by merchants and their customers in India, but Hodgson's October beer clearly influenced the Burton brewers' India pale ales.</p>
+<p>Brewer <a href="/wiki/Charrington_Brewery" title="Charrington Brewery">Charrington</a>'s trial shipments of <a href="/wiki/Hogshead" title="Hogshead">hogsheads</a> of "India Ale" to Madras (now <a href="/wiki/Chennai" title="Chennai">Chennai</a>) and Calcutta (now <a href="/wiki/Kolkata" title="Kolkata">Kolkata</a>) in 1827 proved successful and a regular trade emerged with the key British agents and retailers: Griffiths &amp; Co in Madras; Adam, Skinner and Co. in Bombay (now <a href="/wiki/Mumbai" title="Mumbai">Mumbai</a>) and Bruce, Allen &amp; Co. in Calcutta.<sup id="cite_ref-FOOTNOTEMathias1959190_15-0" class="reference"><a href="#cite_note-FOOTNOTEMathias1959190-15">[12]</a></sup></p>
+<p>Early IPA, such as Burton brewers' and Hodgson's, was only slightly higher in alcohol than most beer brewed in his day and would not have been considered a strong ale; however, a greater proportion of the <a href="/wiki/Wort" title="Wort">wort</a> was well-fermented, leaving behind few residual sugars, and the beer was strongly hopped.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[13]</a></sup> The common story that early IPAs were much stronger than other beers of the time, however, is a myth.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[14]</a></sup> While IPAs were formulated to survive long voyages by sea better than other styles of the time, <a href="/wiki/Porter_(beer)" title="Porter (beer)">porter</a> was also shipped to India and California successfully.<sup id="cite_ref-AnchorIPA_18-0" class="reference"><a href="#cite_note-AnchorIPA-18">[15]</a></sup> It is clear that by the 1860s, India pale ales were widely brewed in England, and that they were much more <a href="/wiki/Attenuation_(brewing)" title="Attenuation (brewing)">attenuated</a> and highly hopped than porters and many other ales.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[16]</a></sup></p>
+<p>Demand for the export style of pale ale, which had become known as <i>India pale ale</i>, developed in England around 1840 and India pale ale became a popular product in England.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[17]</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[18]</a></sup> Some brewers dropped the term "India" in the late 19th century, but records indicated that these "pale ales" retained the features of earlier IPAs.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[19]</a></sup> American, Australian, and Canadian brewers manufactured beer with the label IPA before 1900, and records suggest that these beers were similar to English IPA of the era.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[20]</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[21]</a></sup></p>
+<p>IPA style beers started being exported to other colonial countries, such as Australia and New Zealand, around this time with many breweries dropping the 'I' in 'IPA' and simply calling them Pale Ales or Export Pales. Many breweries, such as <a href="/wiki/Kirkstall_Brewery" title="Kirkstall Brewery">Kirkstall Brewery</a>, sent large quantities of export beer across the world by steam ship to auction off to wholesalers once there.</p>
+<h2><span class="mw-headline" id="United_Kingdom">United Kingdom</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=India_pale_ale&amp;action=edit&amp;section=2" title="Edit section: United Kingdom">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The term IPA is commonly used in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> for <a href="/wiki/Gravity_(alcoholic_beverage)" title="Gravity (alcoholic beverage)">low-gravity</a> beers, for example <a href="/wiki/Greene_King" title="Greene King">Greene King</a> IPA and <a href="/wiki/Charles_Wells_Ltd" title="Charles Wells Ltd">Charles Wells</a> Eagle IPA. IPAs with <a href="/wiki/Abv" title="Abv" class="mw-redirect">alcohol by volume</a> of 4% or lower have been brewed in the UK since the <a href="/wiki/First_World_War" title="First World War" class="mw-redirect">First World War</a>,<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[22]</a></sup> when taxes on beer ingredients greatly increased and brewers responded by lowering the strength of their beers.</p>
+<h2><span class="mw-headline" id="Canada_and_the_United_States">Canada and the United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=India_pale_ale&amp;action=edit&amp;section=3" title="Edit section: Canada and the United States">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>IPAs have a long history in Canada and the United States, and many breweries there produce a version of the style.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[23]</a></sup> Contemporary American IPAs are typically brewed with distinctively American hops, such as <a href="/wiki/Cascade_hop" title="Cascade hop">Cascade</a>, Centennial, Citra, Columbus, <a href="/wiki/Chinook_hops" title="Chinook hops" class="mw-redirect">Chinook</a>, Simcoe, <a href="/wiki/Amarillo_hops" title="Amarillo hops">Amarillo</a>, Tomahawk, Warrior, and Nugget.</p>
+<p>East Coast IPAs are distinguished from West Coast IPAs by a stronger malt presence, which balances the intensity of the hops, whereas hops are more prominent in the western brews, possibly because of the proximity of West Coast breweries to hop fields in the Pacific Northwest. East Coast breweries rely more on spicier European hops and specialty malts than those on the West Coast.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[24]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[25]</a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[26]</a></sup></p>
+<p>Double IPAs (also referred to as Imperial IPAs) are a stronger, very hoppy variant of IPAs that typically have alcohol content above 7.5% by volume.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[27]</a></sup> The style is claimed to have originated with Vinnie Cilurzo, currently the owner of <a href="/wiki/Russian_River_Brewing_Company" title="Russian River Brewing Company">Russian River Brewing Company</a> in <a href="/wiki/Santa_Rosa,_California" title="Santa Rosa, California">Santa Rosa, California</a>, in 1994 at the now-defunct Blind Pig Brewery in <a href="/wiki/Temecula,_California" title="Temecula, California">Temecula, California</a>.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[d]</a></sup> The style has been embraced by the <a href="/wiki/Beer_in_San_Diego_County,_California" title="Beer in San Diego County, California">craft brewers</a> of <a href="/wiki/San_Diego_County,_California" title="San Diego County, California">San Diego County, California</a>, to such an extent that double IPAs have been referred to as "San Diego pale ale".<sup id="cite_ref-renamed_32-0" class="reference"><a href="#cite_note-renamed-32">[28]</a></sup><sup id="cite_ref-rocked_33-0" class="reference"><a href="#cite_note-rocked-33">[29]</a></sup></p>
+<p>In the United States, IPAs have become extremely popular, helping drive the craft beer renaissance.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[30]</a></sup> The style has traditionally been known for being higher in alcohol content (<a href="/wiki/Alcohol_by_volume" title="Alcohol by volume">ABV</a>), but in recent years, "<a href="/wiki/Session_beer" title="Session beer" class="mw-redirect">session</a>" IPAs lower in ABV have become popular. As the style has grown more popular, many sub-styles have emerged, such as Belgian or White IPAs.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[31]</a></sup></p>
+<p>American-style IPA is now brewed in <a href="/wiki/Beer_in_Belgium" title="Beer in Belgium">Belgium</a>, with Viven IPA from <a href="/wiki/De_Proefbrouwerij" title="De Proefbrouwerij">De Proefbrouwerij</a> and Houblon <a href="/wiki/Chouffe" title="Chouffe" class="mw-redirect">Chouffe</a> becoming available in the 2000s. It is also available in <a href="/wiki/Argentina" title="Argentina">Argentina</a> from Cervecería Antares.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[32]</a></sup></p>
+<h2><span class="mw-headline" id="Footnotes">Footnotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=India_pale_ale&amp;action=edit&amp;section=4" title="Edit section: Footnotes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: lower-alpha;">
+<ol class="references">
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">The Bow Brewery was on the banks of the <a href="/wiki/River_Lea" title="River Lea">River Lea</a> near <a href="/wiki/Bow,_London#Bridges_at_Bowe" title="Bow, London">Bow bridge</a>. The <a href="/wiki/East_India_Docks" title="East India Docks">East India Docks</a> lay two miles down river.<sup id="cite_ref-Pryor2009_8-0" class="reference"><a href="#cite_note-Pryor2009-8">[8]</a></sup></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Mark Hodgson died in 1810, leaving the Bow Brewery in the care of a trust. His only surviving son, Frederick Hodgson, took control of the brewery in 1819.<sup id="cite_ref-Pryor2009_8-1" class="reference"><a href="#cite_note-Pryor2009-8">[8]</a></sup></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">The water of Burton on Trent contains a very high concentration of sulfate which accentuates the bitterness of beer. See Daniels, Foster, and Cornell.</span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">The double IPA, though, is not quite a native, even though Vinnie Cilurzo is credited with creating the style in 1994, when he was running Blind Pig Brewery in Temecula. Blind Pig IPA set the bar high and bitter – the recipe called for four varieties of malts, but the intensely aromatic and bitter hops were the star.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2016)">citation needed</span></a></i>]</sup></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=India_pale_ale&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 32em; -webkit-column-width: 32em; column-width: 32em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><i>Sydney Gazette and New South Wales Advertiser</i>, August 29, 1829 <a rel="nofollow" class="external text" href="http://zythophile.wordpress.com/2013/05/14/the-earliest-use-of-the-term-india-pale-ale-was-in-australia">Zythophile, <i>The earliest use of the term India pale ale was … in Australia?</i></a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">North, Andrew (2012-08-25). <a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/world-asia-india-19340289">"The return of the Indian Pale Ale"</a>. <a href="/wiki/BBC_News" title="BBC News">BBC News</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-08-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndia+pale+ale&amp;rft.aufirst=Andrew&amp;rft.aulast=North&amp;rft.btitle=The+return+of+the+Indian+Pale+Ale&amp;rft.date=2012-08-25&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld-asia-india-19340289&amp;rft.pub=BBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a href="#CITEREFAnonymous1744">Anonymous 1744</a>, pp.&#160;39–43</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="#CITEREFAnonymous1744">Anonymous 1744</a>, pp.&#160;72-73</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a href="#CITEREFFoster1999">Foster 1999</a>, p.&#160;13</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a href="#CITEREFDaniels1996">Daniels 1996</a>, p.&#160;154</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a href="#CITEREFCornell2008">Cornell 2008</a>, pp.&#160;97–98</span></li>
+<li id="cite_note-Pryor2009-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Pryor2009_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Pryor2009_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Pryor2009_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Pryor, Alan (2009). <a rel="nofollow" class="external text" href="http://www.open.ac.uk/Arts/ferguson-centre/commodities-of-empire/working-papers/WP13.pdf">"Indian Pale Ale: an Icon of Empire"</a> <span style="font-size:85%;">(PDF)</span>. <i>Commodities of Empire Working Paper</i> (13). <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1756-0098">1756-0098</a><span class="reference-accessdate">. Retrieved <span class="nowrap">17 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndia+pale+ale&amp;rft.atitle=Indian+Pale+Ale%3A+an+Icon+of+Empire&amp;rft.aufirst=Alan&amp;rft.aulast=Pryor&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.open.ac.uk%2FArts%2Fferguson-centre%2Fcommodities-of-empire%2Fworking-papers%2FWP13.pdf&amp;rft.issn=1756-0098&amp;rft.issue=13&amp;rft.jtitle=Commodities+of+Empire+Working+Paper&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a href="#CITEREFCornell2008">Cornell 2008</a>, p.&#160;98</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a href="#CITEREFFoster1999">Foster 1999</a>, p.&#160;26</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a href="#CITEREFCornell2008">Cornell 2008</a>, p.&#160;102</span></li>
+<li id="cite_note-FOOTNOTEMathias1959190-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEMathias1959190_15-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFMathias1959">Mathias 1959</a>, p.&#160;190.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a href="#CITEREFFoster1999">Foster 1999</a>, pp.&#160;17-21 discusses the hopping rate; <a href="#CITEREFDaniels1996">Daniels 1996</a>, p.&#160;154 discusses the high level of fermentation.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a href="#CITEREFFoster1999">Foster 1999</a>, p.&#160;21</span></li>
+<li id="cite_note-AnchorIPA-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-AnchorIPA_18-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.anchorbrewing.com/blog/in-the-roomthe-story-of-anchor-ipa/">"IN THE ROOM THE STORY OF ANCHOR IPA™"</a>. <i>Anchor Brewing Blog</i>. Anchor Brewing Company<span class="reference-accessdate">. Retrieved <span class="nowrap">28 April</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndia+pale+ale&amp;rft.atitle=IN+THE+ROOM+THE+STORY+OF+ANCHOR+IPA%84%A2&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.anchorbrewing.com%2Fblog%2Fin-the-roomthe-story-of-anchor-ipa%2F&amp;rft.jtitle=Anchor+Brewing+Blog&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a href="#CITEREFDaniels1996">Daniels 1996</a>, p.&#160;156</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a href="#CITEREFDaniels1996">Daniels 1996</a>, p.&#160;155</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a href="#CITEREFCornell2008">Cornell 2008</a>, p.&#160;104</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a href="#CITEREFFoster1999">Foster 1999</a>, p.&#160;65</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a href="#CITEREFDaniels1996">Daniels 1996</a>, pp.&#160;157-58</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a href="#CITEREFCornell2008">Cornell 2008</a>, p.&#160;112</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation journal">"Brewing records". London Metropolitan Archives: Whitbread and Barclay Perkins.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndia+pale+ale&amp;rft.atitle=Brewing+records&amp;rft.genre=article&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a href="#CITEREFJackson1978">Jackson 1978</a>, p.&#160;210</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation news">Henry, Jason (13 September 2012). <a rel="nofollow" class="external text" href="http://blogs.sfweekly.com/foodie/2012/09/beer_of_week_new_belgium_alpine_ipa.php">"Beer of the Week: New Belgium/Alpine Super India Pale Ale"</a>. <i><a href="/wiki/SF_Weekly" title="SF Weekly">SF Weekly</a> (blog)</i><span class="reference-accessdate">. Retrieved <span class="nowrap">26 September</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndia+pale+ale&amp;rft.atitle=Beer+of+the+Week%3A+New+Belgium%2FAlpine+Super+India+Pale+Ale&amp;rft.aufirst=Jason&amp;rft.aulast=Henry&amp;rft.date=2012-09-13&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fblogs.sfweekly.com%2Ffoodie%2F2012%2F09%2Fbeer_of_week_new_belgium_alpine_ipa.php&amp;rft.jtitle=SF+Weekly+%28blog%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation news">Kitsock, Greg (20 June 2007). <a rel="nofollow" class="external text" href="http://www.washingtonpost.com/wp-dyn/content/article/2007/06/19/AR2007061900354.html">"A Bitter Divide"</a>. <i><a href="/wiki/The_Washington_Post" title="The Washington Post">The Washington Post</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">26 September</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndia+pale+ale&amp;rft.atitle=A+Bitter+Divide&amp;rft.aufirst=Greg&amp;rft.aulast=Kitsock&amp;rft.date=2007-06-20&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.washingtonpost.com%2Fwp-dyn%2Fcontent%2Farticle%2F2007%2F06%2F19%2FAR2007061900354.html&amp;rft.jtitle=The+Washington+Post&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation news">Juskewitch, Ezra (10 September 2012). <a rel="nofollow" class="external text" href="http://mainecampus.com/2012/09/10/the-hop-report-summer-brews-great-alternative-to-fall-ales/?ref=opinion">"The Hop Report: Summer brews great alternative to fall ales"</a>. <i><a href="/wiki/The_Maine_Campus" title="The Maine Campus">The Maine Campus</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">26 September</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndia+pale+ale&amp;rft.atitle=The+Hop+Report%3A+Summer+brews+great+alternative+to+fall+ales&amp;rft.aufirst=Ezra&amp;rft.aulast=Juskewitch&amp;rft.date=2012-09-10&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fmainecampus.com%2F2012%2F09%2F10%2Fthe-hop-report-summer-brews-great-alternative-to-fall-ales%2F%3Fref%3Dopinion&amp;rft.jtitle=The+Maine+Campus&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://beeradvocate.com/articles/599">"American Double IPA"</a> <i><a href="/wiki/Beer_Advocate" title="Beer Advocate" class="mw-redirect">Beer Advocate</a></i>. Retrieved 30 May 2013.</span></li>
+<li id="cite_note-renamed-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-renamed_32-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Rowe, Peter (March 8, 2006). <a rel="nofollow" class="external text" href="http://legacy.utsandiego.com/news/metro/rowe/20060308-9999-lz1f08rowe.html">"Some believe bitter brew should be renamed to reflect San Diego roots"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">21 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndia+pale+ale&amp;rft.atitle=Some+believe+bitter+brew+should+be+renamed+to+reflect+San+Diego+roots&amp;rft.aufirst=Peter&amp;rft.aulast=Rowe&amp;rft.date=2006-03-08&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Flegacy.utsandiego.com%2Fnews%2Fmetro%2Frowe%2F20060308-9999-lz1f08rowe.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-rocked-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-rocked_33-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://legacy.utsandiego.com/news/features/20070117-9999-lz1c17events.html">"10 events that rocked our beer mugs, 1996-2006"</a>. <i>San Diego Union Tribune</i>. January 17, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">18 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndia+pale+ale&amp;rft.atitle=10+events+that+rocked+our+beer+mugs%2C+1996-2006&amp;rft.date=2007-01-17&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Flegacy.utsandiego.com%2Fnews%2Ffeatures%2F20070117-9999-lz1c17events.html&amp;rft.jtitle=San+Diego+Union+Tribune&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.washingtonbeerblog.com/ipa-responsible-for-growth-of-craft-beer-industry/">"Is IPA responsible for the growth of the craft beer industry? - Beer News"</a>. <i>Beer News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndia+pale+ale&amp;rft.atitle=Is+IPA+responsible+for+the+growth+of+the+craft+beer+industry%3F+-+Beer+News&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.washingtonbeerblog.com%2Fipa-responsible-for-growth-of-craft-beer-industry%2F&amp;rft.jtitle=Beer+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.craftbeer.com/craft-beer-muses/the-ever-emerging-sub-categories-of-india-pale-ale">"The Ever-Emerging Sub-Categories of India Pale Ale"</a>. <i>CraftBeer.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndia+pale+ale&amp;rft.atitle=The+Ever-Emerging+Sub-Categories+of+India+Pale+Ale&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.craftbeer.com%2Fcraft-beer-muses%2Fthe-ever-emerging-sub-categories-of-india-pale-ale&amp;rft.jtitle=CraftBeer.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cervezaantares.com/beers.php?iId=35">"Cerveza IPA"</a>. <i>Cervecería Antares</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndia+pale+ale&amp;rft.atitle=Cerveza+IPA&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cervezaantares.com%2Fbeers.php%3FiId%3D35&amp;rft.jtitle=Cervecer%C3a+Antares&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=India_pale_ale&amp;action=edit&amp;section=6" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite id="CITEREFAnonymous1744" class="citation book">Anonymous (1744). <a rel="nofollow" class="external text" href="https://openlibrary.org/books/OL24190346M/The_London_and_country_brewer"><i>The London and Country Brewer</i></a>. London: Thomas Astley. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/22476249">22476249</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndia+pale+ale&amp;rft.au=Anonymous&amp;rft.btitle=The+London+and+Country+Brewer&amp;rft.date=1744&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL24190346M%2FThe_London_and_country_brewer&amp;rft_id=info%3Aoclcnum%2F22476249&amp;rft.place=London&amp;rft.pub=Thomas+Astley&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFCornell2008" class="citation book">Cornell, Martyn (2008). <a rel="nofollow" class="external text" href="https://books.google.ca/books?id=sJPGPgAACAAJ"><i>Amber, Gold &amp; Black: The Story of Britain's Great Beers</i></a>. Zythography Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndia+pale+ale&amp;rft.aufirst=Martyn&amp;rft.aulast=Cornell&amp;rft.btitle=Amber%2C+Gold+%26+Black%3A+The+Story+of+Britain%27s+Great+Beers&amp;rft.date=2008&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.ca%2Fbooks%3Fid%3DsJPGPgAACAAJ&amp;rft.pub=Zythography+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFDaniels1996" class="citation book">Daniels, Ray (1996). <i>Designing Great Beers: The Ultimate Guide to Brewing Classic Beer Styles</i>. Brewers Publications. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-937381-50-2" title="Special:BookSources/978-0-937381-50-2">978-0-937381-50-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndia+pale+ale&amp;rft.aufirst=Ray&amp;rft.aulast=Daniels&amp;rft.btitle=Designing+Great+Beers%3A+The+Ultimate+Guide+to+Brewing+Classic+Beer+Styles&amp;rft.date=1996&amp;rft.genre=book&amp;rft.isbn=978-0-937381-50-2&amp;rft.pub=Brewers+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFFoster1999" class="citation book">Foster, Terry (1999). <i>Pale Ale: History, Brewing Techniques, Recipes</i> (Second ed.). Brewers Publications. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-937381-69-4" title="Special:BookSources/978-0-937381-69-4">978-0-937381-69-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndia+pale+ale&amp;rft.aufirst=Terry&amp;rft.aulast=Foster&amp;rft.btitle=Pale+Ale%3A+History%2C+Brewing+Techniques%2C+Recipes&amp;rft.date=1999&amp;rft.edition=Second&amp;rft.genre=book&amp;rft.isbn=978-0-937381-69-4&amp;rft.pub=Brewers+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFJackson1978" class="citation book"><a href="/wiki/Michael_Jackson_(writer)" title="Michael Jackson (writer)">Jackson, Michael</a> (1978). <i>The World Guide to Beer</i>. <a href="/wiki/Ballantine_Books" title="Ballantine Books">Ballantine Books</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-345-27408-3" title="Special:BookSources/978-0-345-27408-3">978-0-345-27408-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndia+pale+ale&amp;rft.aufirst=Michael&amp;rft.aulast=Jackson&amp;rft.btitle=The+World+Guide+to+Beer&amp;rft.date=1978&amp;rft.genre=book&amp;rft.isbn=978-0-345-27408-3&amp;rft.pub=Ballantine+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFMathias1959" class="citation book"><a href="/wiki/Peter_Mathias" title="Peter Mathias">Mathias, Peter</a> (1959). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=PyU9AAAAIAAJ"><i>The Brewing Industry in England 1700-1830</i></a>. CUP Archive. GGKEY:DYD5N29F6JD.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndia+pale+ale&amp;rft.aufirst=Peter&amp;rft.aulast=Mathias&amp;rft.btitle=The+Brewing+Industry+in+England+1700-1830&amp;rft.date=1959&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DPyU9AAAAIAAJ&amp;rft.pub=CUP+Archive&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=India_pale_ale&amp;action=edit&amp;section=7" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Brown, Pete (2009), <i>Hops &amp; Glory: One Man's Search for the Beer That Built the British Empire</i>, <a href="/wiki/Pan_Macmillan" title="Pan Macmillan" class="mw-redirect">Pan Macmillan</a></li>
+<li><cite class="citation book">Steele, Mitch (2012). <i>IPA: Brewing Techniques, Recipes, and the Evolution of India Pale Ale</i>. Brewers Publications. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-938469-00-8" title="Special:BookSources/978-1-938469-00-8">978-1-938469-00-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndia+pale+ale&amp;rft.aufirst=Mitch&amp;rft.aulast=Steele&amp;rft.btitle=IPA%3A+Brewing+Techniques%2C+Recipes%2C+and+the+Evolution+of+India+Pale+Ale&amp;rft.date=2012&amp;rft.genre=book&amp;rft.isbn=978-1-938469-00-8&amp;rft.pub=Brewers+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=India_pale_ale&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> Media related to <a href="//commons.wikimedia.org/wiki/Category:India_Pale_Ales" class="extiw" title="commons:Category:India Pale Ales">India Pale Ales</a> at Wikimedia Commons</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Beer_styles" title="Template:Beer styles"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Beer_styles" title="Template talk:Beer styles"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Beer_styles&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/List_of_beer_styles" title="List of beer styles">Beer styles</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Ale" title="Ale">Ale</a></li>
+<li><a href="/wiki/Lager" title="Lager">Lager</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Beer_in_Belgium" title="Beer in Belgium">Beer in Belgium</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dubbel" title="Dubbel">Dubbel</a></li>
+<li><a href="/wiki/Flanders_red_ale" title="Flanders red ale">Flanders red ale</a></li>
+<li><a href="/wiki/Lambic" title="Lambic">Lambic</a>
+<ul>
+<li><a href="/wiki/Framboise" title="Framboise">Framboise</a></li>
+<li><a href="/wiki/Gueuze" title="Gueuze">Gueuze</a></li>
+<li><a href="/wiki/Kriek_lambic" title="Kriek lambic">Kriek</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Oud_bruin" title="Oud bruin">Oud bruin</a></li>
+<li><a href="/wiki/Quadrupel" title="Quadrupel">Quadrupel</a></li>
+<li><a href="/wiki/Saison" title="Saison">Saison</a></li>
+<li><a href="/wiki/Tripel" title="Tripel">Tripel</a></li>
+<li><a href="/wiki/Witbier" title="Witbier" class="mw-redirect">Witbier</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Beer_in_Germany" title="Beer in Germany">Beer in Germany</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Altbier" title="Altbier">Altbier</a></li>
+<li><a href="/wiki/Berliner_Weisse" title="Berliner Weisse">Berliner Weisse</a></li>
+<li><a href="/wiki/Bock" title="Bock">Bock</a></li>
+<li><a href="/wiki/Dortmunder_Export" title="Dortmunder Export">Dortmunder Export</a></li>
+<li><a href="/wiki/Dunkel" title="Dunkel">Dunkel</a></li>
+<li><a href="/wiki/Gose" title="Gose">Gose</a></li>
+<li><a href="/wiki/Pale_lager" title="Pale lager">Pale lager</a></li>
+<li><a href="/wiki/Kellerbier" title="Kellerbier">Kellerbier</a></li>
+<li><a href="/wiki/K%C3%B6lsch_(beer)" title="Kölsch (beer)">Kölsch</a></li>
+<li><a href="/wiki/M%C3%A4rzen" title="Märzen">Märzen</a></li>
+<li><a href="/wiki/Roggenbier" title="Roggenbier" class="mw-redirect">Roggenbier</a></li>
+<li><a href="/wiki/Schwarzbier" title="Schwarzbier">Schwarzbier</a></li>
+<li><a href="/wiki/Smoked_beer" title="Smoked beer">Smoked beer</a></li>
+<li><a href="/wiki/Wheat_beer" title="Wheat beer">Wheat beer</a></li>
+<li><a href="/wiki/Zoigl" title="Zoigl">Zoigl</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Beer_in_the_United_Kingdom" title="Beer in the United Kingdom">Beer in the UK</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barley_wine" title="Barley wine">Barley wine</a></li>
+<li><a href="/wiki/Bitter_(beer)" title="Bitter (beer)">Bitter</a></li>
+<li><a href="/wiki/Brown_ale" title="Brown ale">Brown ale</a></li>
+<li><strong class="selflink">India pale ale</strong></li>
+<li><a href="/wiki/Mild_ale" title="Mild ale">Mild ale</a></li>
+<li><a href="/wiki/Old_ale" title="Old ale">Old ale</a></li>
+<li><a href="/wiki/Porter_(beer)" title="Porter (beer)">Porter</a></li>
+<li><a href="/wiki/Scotch_ale" title="Scotch ale">Scotch ale</a></li>
+<li><a href="/wiki/Stout" title="Stout">Stout</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Beer_in_the_United_States" title="Beer in the United States">Beer in the US</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amber_ale" title="Amber ale" class="mw-redirect">Amber ale</a></li>
+<li><a href="/wiki/American_Pale_Ale" title="American Pale Ale">American Pale Ale</a></li>
+<li><a href="/wiki/American_wild_ale" title="American wild ale">American wild ale</a></li>
+<li><a href="/wiki/Cream_ale" title="Cream ale">Cream ale</a></li>
+<li><a href="/wiki/Ice_beer" title="Ice beer">Ice lager</a></li>
+<li><a href="/wiki/Kentucky_common_beer" title="Kentucky common beer">Kentucky common beer</a></li>
+<li><a href="/wiki/Pumpkin_ale" title="Pumpkin ale">Pumpkin ale</a></li>
+<li><a href="/wiki/Steam_beer" title="Steam beer">Steam beer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Baltic_porter" title="Baltic porter" class="mw-redirect">Baltic porter</a></li>
+<li><a href="/wiki/Bi%C3%A8re_de_Garde" title="Bière de Garde">Bière de Garde</a></li>
+<li><a href="/wiki/Copper_ale" title="Copper ale">Copper ale</a></li>
+<li><a href="/wiki/Corn_beer" title="Corn beer">Corn beer</a></li>
+<li><a href="/wiki/Grodziskie" title="Grodziskie">Grodziskie/Grätzer</a></li>
+<li><a href="/wiki/Irish_red_ale" title="Irish red ale" class="mw-redirect">Irish red ale</a></li>
+<li><a href="/wiki/Light_beer" title="Light beer">Light beer</a></li>
+<li><a href="/wiki/Malt_beer" title="Malt beer">Malt beer</a></li>
+<li><a href="/wiki/Millet_beer" title="Millet beer">Millet beer</a></li>
+<li><a href="/wiki/Pale_ale" title="Pale ale">Pale ale</a></li>
+<li><a href="/wiki/Pilsner" title="Pilsner">Pilsner</a></li>
+<li><a href="/wiki/Rye_beer" title="Rye beer">Rye beer</a></li>
+<li><a href="/wiki/Sahti" title="Sahti">Sahti</a></li>
+<li><a href="/wiki/Small_beer" title="Small beer">Small beer</a></li>
+<li><a href="/wiki/Sour_beer" title="Sour beer">Sour beer</a></li>
+<li><a href="/wiki/Vienna_lager" title="Vienna lager" class="mw-redirect">Vienna lager</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">See also</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_beer" title="History of beer">History of beer</a></li>
+<li><a href="/wiki/Beer_and_breweries_by_region" title="Beer and breweries by region">Beer and breweries by region</a></li>
+<li><a href="/wiki/Beer_sommelier" title="Beer sommelier">Beer sommelier</a></li>
+<li><a href="/wiki/Adjuncts" title="Adjuncts">Adjuncts</a></li>
+<li><a href="/wiki/Low-alcohol_beer" title="Low-alcohol beer">Low-alcohol beer</a></li>
+<li><a href="/wiki/Seasonal_beer" title="Seasonal beer">Seasonal beer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><span class="metadata"><a href="/wiki/File:Projet_bi%C3%A8re_logo_v2.png" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Projet_bi%C3%A8re_logo_v2.png/16px-Projet_bi%C3%A8re_logo_v2.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Projet_bi%C3%A8re_logo_v2.png/24px-Projet_bi%C3%A8re_logo_v2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Projet_bi%C3%A8re_logo_v2.png/32px-Projet_bi%C3%A8re_logo_v2.png 2x" data-file-width="242" data-file-height="242" /></a></span> <a href="/wiki/Portal:Beer" title="Portal:Beer">Beer portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1242
+Cached time: 20160427080346
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.314 seconds
+Real time usage: 0.394 seconds
+Preprocessor visited node count: 1893/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 54320/2097152 bytes
+Template argument size: 3092/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 5/500
+Lua time usage: 0.148/10.000 seconds
+Lua memory usage: 4.27 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  337.511      1 - -total
+ 37.77%  127.476      2 - Template:Reflist
+ 13.76%   46.427      3 - Template:Fix
+ 12.91%   43.560      1 - Template:Lead_too_short
+ 12.84%   43.342      5 - Template:Cite_web
+  9.51%   32.097      1 - Template:Beer_Styles
+  8.88%   29.963      2 - Template:Cn
+  8.59%   28.998      3 - Template:Delink
+  8.43%   28.450      1 - Template:Ambox
+  7.89%   26.624      1 - Template:Or
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:812938-0!*!0!!en!4!* and timestamp 20160427080346 and revision id 716305870
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=India_pale_ale&amp;oldid=716305870">https://en.wikipedia.org/w/index.php?title=India_pale_ale&amp;oldid=716305870</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Beer_styles" title="Category:Beer styles">Beer styles</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2016" title="Category:Articles with unsourced statements from January 2016">Articles with unsourced statements from January 2016</a></li><li><a href="/wiki/Category:Wikipedia_introduction_cleanup_from_June_2014" title="Category:Wikipedia introduction cleanup from June 2014">Wikipedia introduction cleanup from June 2014</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_June_2014" title="Category:Articles covered by WikiProject Wikify from June 2014">Articles covered by WikiProject Wikify from June 2014</a></li><li><a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">All articles covered by WikiProject Wikify</a></li><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_February_2015" title="Category:Articles that may contain original research from February 2015">Articles that may contain original research from February 2015</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2015" title="Category:Articles with unsourced statements from January 2015">Articles with unsourced statements from January 2015</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=India+pale+ale&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=India+pale+ale" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/India_pale_ale"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:India_pale_ale"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/India_pale_ale" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=India_pale_ale&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=India_pale_ale&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/India_pale_ale" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/India_pale_ale" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=India_pale_ale&amp;oldid=716305870" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=India_pale_ale&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1543214" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=India_pale_ale&amp;id=716305870" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=India+pale+ale">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=India+pale+ale&amp;returnto=India+pale+ale&amp;oldid=716305870&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=India_pale_ale&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:India_Pale_Ales" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%98%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B8_%D0%BF%D0%B5%D0%B9%D0%BB_%D0%B5%D0%B9%D0%BB" title="Индийски пейл ейл – Bulgarian" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/India_Pale_Ale" title="India Pale Ale – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/India_Pale_Ale" title="India Pale Ale – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/India_Pale_Ale" title="India Pale Ale – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/India_Pale_Ale" title="India Pale Ale – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/India_Pale_Ale" title="India Pale Ale – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/India_Pale_Ale" title="India Pale Ale – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%9D%B8%EB%94%94%EC%95%84_%ED%8E%98%EC%9D%BC_%EC%97%90%EC%9D%BC" title="인디아 페일 에일 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/India_Pale_Ale" title="India Pale Ale – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/India_Pale_Ale" title="India Pale Ale – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%9A%E3%83%BC%E3%83%AB%E3%82%A8%E3%83%BC%E3%83%AB" title="インディア・ペールエール – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/India_pale_ale" title="India pale ale – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/India_pale_ale" title="India pale ale – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/India_pale_ale" title="India pale ale – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%8D%B0%E5%BA%A6%E6%B7%A1%E8%89%B2%E8%89%BE%E5%B0%94" title="印度淡色艾尔 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1543214#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 21 April 2016, at 00:59.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="//wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=India_pale_ale&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw1179"});});</script>
+	</body>
+</html>
