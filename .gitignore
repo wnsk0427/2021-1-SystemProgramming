@@ -8,10 +8,5 @@ x64/
 *.filters
 *.user
 
-*.s
-*.o
-*.gch
-runfile
-
 *.mp4
 *.docx

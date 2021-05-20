@@ -11,3 +11,4 @@ bmpfilter: $(OBJS) bmplib.h perfenv.h proj.h
 
 clean: 
 	-rm -f $(OBJS) bmpfilter
+	-rm out_*
